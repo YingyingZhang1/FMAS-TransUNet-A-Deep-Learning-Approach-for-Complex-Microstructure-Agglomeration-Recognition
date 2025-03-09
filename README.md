@@ -1,5 +1,5 @@
-# DS-TransUNet
-This repository contains the official code of DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation
+# FMAS-TransUNet
+A Deep Learning Approach for Complex Microstructure Agglomeration Recognition
 
 ## Requirements
 * `Python==3.7.6`
